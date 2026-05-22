@@ -75,7 +75,38 @@ SELECT * FROM orders;
 
 ## 📸 SQL Output Screenshot
 
-![SQL Output](screenshots/sql_output.png)
+![SQL Output](screenshots/sql_output.png) 
+
+
+## 📈 Advanced SQL Query Outputs
+
+### Total Sales
+
+![Total Sales](screenshots/total_sales.png)
+
+---
+
+### Average Sales
+
+![Average Sales](screenshots/average_sales.png)
+
+---
+
+### Highest Sale
+
+![Highest Sale](screenshots/highest_sale.png)
+
+---
+
+### Category Wise Sales
+
+![Category Wise Sales](screenshots/category_wise_sales.png)
+
+---
+
+### Order By Sales
+
+![Order By Sales](screenshots/order_by_sales.png)
 
 ---
 
