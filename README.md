@@ -125,7 +125,6 @@ SELECT * FROM orders;
 - SELECT Queries
 - Database Basics
 - GitHub Project Structuring
-
 --- 
 
 ## 📚 Future Improvements
