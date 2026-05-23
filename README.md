@@ -126,6 +126,16 @@ SELECT * FROM orders;
 - Database Basics
 - GitHub Project Structuring
 
+--- 
+
+## 📚 Future Improvements
+
+- Add more advanced SQL queries
+- Connect real datasets
+- Perform joins between tables
+- Build SQL dashboards
+- Integrate with Power BI
+- 
 ---
 
 ## 🚀 Outcome of Project
